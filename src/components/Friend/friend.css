@@ -1,0 +1,9 @@
+.friend{
+    text-align: left;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
